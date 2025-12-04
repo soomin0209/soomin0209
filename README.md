@@ -1,1 +1,1 @@
-<p align='center'> <img src="https://capsule-render.vercel.app/api?type=waving&color=#FFFACD&height=300&section=header&text=Welcome&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Soomin's%20Github%20Profile&descAlignY=52&descAlign=60"/> </p>
+<p align='center'> <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD&height=300&section=header&text=Welcome&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Soomin's%20Github%20Profile&descAlignY=52&descAlign=60"/> </p>
