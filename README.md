@@ -37,7 +37,7 @@ Redis 기반 실시간 채팅·알림 시스템, 동시성 제어, 조회 성능
 <br>
 
 ### 🍷 The One Bottle Shop — 주류 커머스 플랫폼
-`2026.03` · `5인 팀` · `내일배움캠프 팀 프로젝트` · [GitHub](https://github.com/TheOne-team-1/TheOne-Bottle-Shop)
+`2026.03` · `5인 팀` · `내일배움캠프 팀 프로젝트`
  
 동시성 제어와 조회 성능 최적화에 집중한 커머스 백엔드 서비스입니다.
  
